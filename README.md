@@ -1,6 +1,6 @@
 # Caffe-Installation-Process
 
-Ubuntu version - 18
+Ubuntu version - 18 
 OpenCV version - 3.4.0
 Python version – 2.7.4(Any Version)
 
@@ -38,6 +38,7 @@ If you are using any other version of python, then instead of using requirement.
 follows these commands to mannually install packages -
 
 for(python3)
+
 $ sudo pip3 install scikit-image protobuf
 $ sudo pip3 install Cpython
 $ sudo pip3 install numpy
